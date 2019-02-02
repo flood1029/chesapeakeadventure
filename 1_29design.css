@@ -1,0 +1,191 @@
+.a{
+	background: url(2.png) fixed no-repeat;
+	height: 200vh;
+}
+
+.b{
+	display: flex;
+	align-items: center;
+	align-content: center;
+	background-color: #FF8B1E;
+	margin-bottom: 65px;
+}
+
+#div1{
+	text-align: center;
+	margin-left: 400px;
+
+}
+
+#pic1{
+	width: 400px;
+	height: 200px;
+	border-radius: 30px;
+}
+
+#p1{
+	font-family: Clearface Gothic BQ;
+	font-size: 36px;
+	color: #0C45FC;
+	font-weight: bold;
+}
+
+#div2{
+	margin-left: 200px;
+}
+
+#pic2{
+	width: 700px;
+	height: 500px;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	border-radius: 100px 20px;
+}
+
+.c{
+
+}
+
+#div3{
+	text-align: center;
+}
+
+#pic3{
+	width: 100px;
+}
+
+#h12{
+	font-size: 50px;
+	color: blue;
+	font-family: Clearface Gothic BQ;
+
+}
+
+#input1{
+	width: 450px;
+	height: 30px;
+}
+#input2{
+	height: 35px;
+	width: 75px;
+	color: white;
+	border-radius: 5px;
+	background-color: blue;
+	border-color: orange;
+}
+
+#p2{
+	font-family: clearface Gothic BQ;
+	font-size: 33px;
+	color: blue;
+}
+
+.d{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 2fr));
+	margin-top: 70px;
+	height: 40vh;
+	background: #0062FF;
+	background-size: cover;
+	text-align: center;
+}
+
+#div4{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div5{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div6{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div7{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div8{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div9{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div9{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div10{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#div11{
+	margin-left: 50px;
+	margin-top: 100px;
+}
+
+#pic4{
+	width: 100px;
+}
+
+#pic5{
+	width: 100px;
+}	
+
+#pic6{
+	width: 100px;
+}
+
+#pic7{
+	width: 100px;
+}
+
+#pic8{
+	width: 100px;
+}
+
+#pic9{
+	width: 100px;
+}
+
+#pic10{
+	width: 100px;
+}
+
+#pic11{
+	width: 100px;
+}
+
+
+.e{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(400px, 2fr));
+	margin-top: 5px;
+	height: 40vh;
+	background: #0062FF;
+	background-size: cover;
+	text-align: center;
+}
+
+#h21{
+	font-family: Clearface Gothic BQ;
+	font-size: 40px;
+	color: orange;
+}
+
+#p3{
+	font-family: Clearface Gothic BQ;
+	font-size: 25px;
+	color: orange;
+}
